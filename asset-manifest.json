@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Foodie-Fast-Food/static/css/main.e6c13ad2.css",
-    "main.js": "/Foodie-Fast-Food/static/js/main.6cb774fd.js",
+    "main.js": "/Foodie-Fast-Food/static/js/main.f684e2d0.js",
     "static/js/787.30b54006.chunk.js": "/Foodie-Fast-Food/static/js/787.30b54006.chunk.js",
     "static/media/burger.jpg": "/Foodie-Fast-Food/static/media/burger.c9cf51de95bc3390db77.jpg",
     "static/media/coke.jpg": "/Foodie-Fast-Food/static/media/coke.0aa4406c940e0140a580.jpg",
@@ -9,11 +9,11 @@
     "static/media/Ordersuccess.jpg": "/Foodie-Fast-Food/static/media/Ordersuccess.98d6109d6468022f2cbf.jpg",
     "index.html": "/Foodie-Fast-Food/index.html",
     "main.e6c13ad2.css.map": "/Foodie-Fast-Food/static/css/main.e6c13ad2.css.map",
-    "main.6cb774fd.js.map": "/Foodie-Fast-Food/static/js/main.6cb774fd.js.map",
+    "main.f684e2d0.js.map": "/Foodie-Fast-Food/static/js/main.f684e2d0.js.map",
     "787.30b54006.chunk.js.map": "/Foodie-Fast-Food/static/js/787.30b54006.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6cb774fd.js"
+    "static/js/main.f684e2d0.js"
   ]
 }
